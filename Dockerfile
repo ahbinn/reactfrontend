@@ -21,7 +21,7 @@ CMD ["npm", "start"]
 # to build with custom name 'docker build -t anuflora/mymongo:latest .'
 # Commads reference:https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index
 
-#docker run -p 80:3000  anuflora/mybackend:latest
+#docker run -p 80:3000  anuflora/mybackend:latest 
 
 
 
